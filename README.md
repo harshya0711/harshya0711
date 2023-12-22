@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/harsh_yadav07](https://linktr.ee/harsh_yadav07)
-
+- 👨‍💻 All of my projects are available at https://harshya0711.github.io/HarshYadav.github.io/
 - 💬 Ask me about **Power BI, SQL and Python**
 
 - 📫 How to reach me **harshyadavnwg@gmail.com**
