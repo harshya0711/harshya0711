@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Azure**
 
-- 👨‍💻 All of my projects are available at https://harshya0711.github.io/HarshYadav.github.io/
+- 👨‍💻 All of my projects are available at https://linktr.ee/harsh_yadav07
 - 💬 Ask me about **Power BI, SQL and Python**
 
 - 📫 How to reach me **harshyadavnwg@gmail.com**
