@@ -4,10 +4,10 @@
 
 - 🌱 I’m currently learning **Azure**
 
-- 👨‍💻 All of my projects are available at https://linktr.ee/harsh_yadav07
+- 👨‍💻 All of my projects are available at https://harshya0711.github.io/BA-Portfolio/
 - 💬 Ask me about **Power BI, SQL and Python**
 
-- 📫 How to reach me **harshyadavnwg@gmail.com**
+- 📫 How to reach me **harsshhyadav001@gmail.com**
 
 - ⚡ Fun fact **Funny**
 
